@@ -52,7 +52,7 @@
 
 ## Views (Views):
 
-- **Homepage**: Página inicial que exibe a barra de navegação, perfis, membros do grupo, informações e indicadores de jogos, e o logo do site.
+- **Homepage**: Página inicial que exibe a barra de navegação, perfis, membros do grupo, informações e indicadores do cesim game, e o logo do site.
   - `navbar`: Barra de navegação do site.
   - `profiles`: Perfil dos usuários.
   - `group_members`: Membros dos grupos.
